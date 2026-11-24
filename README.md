@@ -1,4 +1,4 @@
-# International Budget Travel
+# 国际穷游攻略｜International Budget Travel Guide
 
 An AI agent skill for planning affordable international trips and making practical decisions on the road. Compare the full cost of flying from different hubs, build a day-by-day itinerary, or check which airport transfers are still running after a late arrival. The skill replies in the language you use and works with a web-enabled agent to look up current travel information.
 
